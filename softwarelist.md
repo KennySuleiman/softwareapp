@@ -1,0 +1,4 @@
+lidl
+ALDI
+Sainsbury
+ASDA
